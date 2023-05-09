@@ -1,0 +1,3 @@
+C:/Users/vince/CLionProjects/hangman/cmake-build-debug/CMakeFiles/cs3a_spring2023_hangman.dir
+C:/Users/vince/CLionProjects/hangman/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vince/CLionProjects/hangman/cmake-build-debug/CMakeFiles/rebuild_cache.dir

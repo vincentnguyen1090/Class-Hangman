@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/drsmith/CLionProjects/cs3a_spring2023_hangman/functions.cpp
+functions.h
+/Users/drsmith/CLionProjects/cs3a_spring2023_hangman/functions.h
+iostream
+-
+
+/Users/drsmith/CLionProjects/cs3a_spring2023_hangman/functions.h
+string
+-
+fstream
+-
+vector
+-
+cstdlib
+-
+algorithm
+-
+
